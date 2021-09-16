@@ -16,7 +16,7 @@ stock using the following charts and tables:-
 
 **************  Installation *****************
 
-1.Python - preferably 3.7+
+1.Python - preferably 3.7 & above
 2.Packages:-mplfinance,streamlit,pandas and plotly
 
 
